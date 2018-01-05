@@ -57,7 +57,7 @@ article{
  <article>
  <p> Welcome to the [Insert Title here] </p>
  <p><center><img src="philippines-flag.png"></p>
-<h1> Hello There </h1>
+<h1> Hello Vince! </h1>
  </article>
  <footer> Copyright @ Sheebs </footer>
  </div>
